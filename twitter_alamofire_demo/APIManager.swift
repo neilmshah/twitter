@@ -14,10 +14,10 @@ import KeychainAccess
 
 class APIManager: SessionManager {
     
-    static let consumerKey = "uFTmFW66AAMEUwx3rZlZDMSCf"
-    static let consumerSecret = "LtlxIoQpBvHcqjpSMIA9Gs2E9wCJbr7xkx9EpSdBYoNedaZUgh"
-    //static let consumerKey = "Kx4Wd26RD9uG62D6PP1AHOyjt"
-    //static let consumerSecret = "Fcpa5Y7tNeKNcA6SMBjs8oIEyd6VEF6F8Q0oQ5AtS7VLPdJpjp"
+    //static let consumerKey = "uFTmFW66AAMEUwx3rZlZDMSCf"
+    //static let consumerSecret = "LtlxIoQpBvHcqjpSMIA9Gs2E9wCJbr7xkx9EpSdBYoNedaZUgh"
+    static let consumerKey = "Kx4Wd26RD9uG62D6PP1AHOyjt"
+    static let consumerSecret = "Fcpa5Y7tNeKNcA6SMBjs8oIEyd6VEF6F8Q0oQ5AtS7VLPdJpjp"
 
     static let requestTokenURL = "https://api.twitter.com/oauth/request_token"
     static let authorizeURL = "https://api.twitter.com/oauth/authorize"
