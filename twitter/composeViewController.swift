@@ -47,7 +47,7 @@ class composeViewController: UIViewController, UITextViewDelegate {
                 self.delegate?.did(post: tweet)
             }
         }
-        self.performSegue(withIdentifier: "ReturnSegue", sender: nil)
+        self.performSegue(withIdentifier: "returnSegue", sender: nil)
     }
     
     @IBAction func onTapOutside(_ sender: Any) {
