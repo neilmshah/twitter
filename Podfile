@@ -14,6 +14,7 @@ target 'twitter' do
   pod 'DateToolsSwift'
   pod 'AlamofireImage'
   pod 'TTTAttributedLabel'
+  #pod 'ActiveLabel'
   
   target 'twitterTests' do
     inherit! :search_paths

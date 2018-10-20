@@ -25,6 +25,7 @@ class tweetDetailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.user = self.tweet!.user
         self.loadTweetInfo()
     }
     

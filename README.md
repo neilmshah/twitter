@@ -31,9 +31,6 @@ The following **stretch** features are implemented:
 - [x] User can reply to any tweet, and replies should be prefixed with the username and the reply_id should be set when posting the tweet
 
 
-
-
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
